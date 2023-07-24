@@ -5,7 +5,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Title>EntityFrameworkCore Pagination</Title>
+	<PackageId>OnPage</PackageId>
+	<Authors>Nabi Karampoor</Authors>
+	<Company>Nilesoft</Company>
+	<Description>Pagination extension for entityframework core.</Description>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>EntityFramework Core, Pagination,.net core, asp .net core, c#</PackageTags>
+	<RepositoryUrl>https://github.com/thisisnabi/Microsoft.EntityFrameworkCore.Pagination</RepositoryUrl>
+	<NeutralLanguage>en-US</NeutralLanguage>
+	<PackageProjectUrl>https://thisisnabi.ir/packages/OnPage</PackageProjectUrl>
+	<AssemblyVersion>1.0.0.0</AssemblyVersion>
+	<Version>1.0.0.0</Version>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<GenerateDocumentationFile>False</GenerateDocumentationFile>  
   </PropertyGroup>
 
 </Project>
