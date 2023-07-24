@@ -1,4 +1,4 @@
-# Pagination in NuGet Project
+# OnPage package
 
 **Using .NET CLI (Command Line)**
 
