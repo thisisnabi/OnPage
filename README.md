@@ -27,7 +27,7 @@ int pageSize = 10;
 
 var pageItems = dataList.Page(pageIndex, pageSize);
 // 'pageItems' will contain the items for the second page with 10 items per page.
-
+```
 
 ### `FirstPage(size)`
 
@@ -44,7 +44,7 @@ int pageSize = 10;
 
 var pageItems = dataList.FirstPage(pageSize);
 // 'pageItems' will contain the items for the first page with 10 items per page.
-
+```
 
 
 ### `LastPage(size)`
@@ -62,7 +62,7 @@ int pageSize = 10;
 
 var pageItems = dataList.LastPage(pageSize);
 // 'pageItems' will contain the items for the first page with 10 items per page.
-
+```
 
 ### `CountOfPage(size)`
 
@@ -79,3 +79,4 @@ int pageSize = 10;
 
 var pageCount = dataList.CountOfPages(pageSize);
 // 'pageCount' will contain the count of pages of dataList
+```
